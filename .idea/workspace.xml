@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8e306bb-e535-403b-bd67-18b54c4b4fb7" name="Default Changelist" comment="" />
+    <list default="true" id="a8e306bb-e535-403b-bd67-18b54c4b4fb7" name="Default Changelist" comment="1、提交21题题解。">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/github/leetcode/MergeTwoLists$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/github/leetcode/MergeTwoLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/github/leetcode/RotateArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/leetcode/MergeTwoLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +23,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -32,6 +42,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1W6ZXEqIN5yKolLY9Bfm8zp1qxY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,9 +53,30 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Ignore Files Support" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MergeTwoLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.leetcode.MergeTwoLists" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MergeTwoLists" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -67,16 +101,73 @@
       <option name="presentableId" value="Default" />
       <updated>1578472042451</updated>
       <workItem from="1578472046922" duration="2722000" />
+      <workItem from="1578557719381" duration="2554000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1、提交21题题解。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、提交21题题解。" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578473574839">
       <screen x="0" y="23" width="1280" height="736" />
     </state>
     <state x="361" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.736@0.23.1280.736" timestamp="1578473574839" />
+    <state x="453" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1578558948661">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="453" y="103" key="#com.intellij.ide.util.MemberChooser/0.23.1280.736@0.23.1280.736" timestamp="1578558948661" />
+    <state x="221" y="23" key="CommitChangelistDialog2" timestamp="1578561229083">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="221" y="23" key="CommitChangelistDialog2/0.23.1280.736@0.23.1280.736" timestamp="1578561229083" />
+    <state width="476" height="466" key="DebuggerActiveHint" timestamp="1578559323541">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="476" height="466" key="DebuggerActiveHint/0.23.1280.736@0.23.1280.736" timestamp="1578559323541" />
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom" timestamp="1578561233008">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1578561233008" />
+    <state width="1238" height="184" key="GridCell.Tab.0.center" timestamp="1578561233006">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1578561233006" />
+    <state width="1238" height="184" key="GridCell.Tab.0.left" timestamp="1578561233005">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1578561233005" />
+    <state width="1238" height="184" key="GridCell.Tab.0.right" timestamp="1578561233007">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1578561233007" />
+    <state width="1238" height="229" key="GridCell.Tab.1.bottom" timestamp="1578559387958">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.1.bottom/0.23.1280.736@0.23.1280.736" timestamp="1578559387958" />
+    <state width="1238" height="229" key="GridCell.Tab.1.center" timestamp="1578559387958">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.1.center/0.23.1280.736@0.23.1280.736" timestamp="1578559387958" />
+    <state width="1238" height="229" key="GridCell.Tab.1.left" timestamp="1578559387957">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.1.left/0.23.1280.736@0.23.1280.736" timestamp="1578559387957" />
+    <state width="1238" height="229" key="GridCell.Tab.1.right" timestamp="1578559387958">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.1.right/0.23.1280.736@0.23.1280.736" timestamp="1578559387958" />
+    <state x="141" y="30" key="SettingsEditor" timestamp="1578561131385">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="141" y="30" key="SettingsEditor/0.23.1280.736@0.23.1280.736" timestamp="1578561131385" />
+    <state x="305" y="83" width="670" height="676" key="search.everywhere.popup" timestamp="1578558944748">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="305" y="83" width="670" height="676" key="search.everywhere.popup/0.23.1280.736@0.23.1280.736" timestamp="1578558944748" />
   </component>
 </project>
